@@ -1,6 +1,6 @@
 :root {
   --theme-color-main: #005a87;
-  --theme-color-background: white;
+  --theme-color-background: rgb(135 134 134 / 49%);
   --theme-color-operator-background: orange;
 }
 body {
